@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CleanupSupplyPaymentElement.Value" Value="Vill du verkligen avbryta fakturan och koppla loss den från avbetalningsplanen?" />
+			<Item Name="LocalizableStrings.OrderTip.Value" Value="Beställningsnummer. Fältet kan inte redigeras och fylls i automatiskt när man lägger till en faktura baserad på beställningen" />
+		</Items>
+	</Group>
+</Resources>

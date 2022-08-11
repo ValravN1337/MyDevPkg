@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pl-PL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CleanupSupplyPaymentElement.Value" Value="Czy na pewno chcesz anulować fakturę i odłączyć ją od planu rat?" />
+			<Item Name="LocalizableStrings.OrderTip.Value" Value="Order number. This field is non-editable and is completed automatically when adding an invoice based on the order" />
+		</Items>
+	</Group>
+</Resources>

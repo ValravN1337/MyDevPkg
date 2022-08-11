@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask4_a8a484f5ce004d11962ce605d9d529b1.Caption" Value="321" />
+			<Item Name="EventsProcessSchema.BaseElements.StartMessage5_f8c185de76da44aabfa797d0f16159d2.Caption" Value="действие перед сохранением" />
+			<Item Name="EventsProcessSchema.Caption" Value="Activity" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_4b4cbb37b4704019b9b9c8a8185c1a80.Caption" Value="LaneSet 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_4b4cbb37b4704019b9b9c8a8185c1a80.Lanes.Lane_1c444580e1444a5089b45cfd0d395afe.Caption" Value="Lane 1" />
+			<Item Name="EventsProcessSchema.Parameters.DcmEntityUtil.Caption" Value="DcmEntityUtil" />
+			<Item Name="EventsProcessSchema.Parameters.IsNew.Caption" Value="IsNew" />
+			<Item Name="EventsProcessSchema.Parameters.ProcessSchemaListeners.Caption" Value="ProcessSchemaListeners" />
+			<Item Name="EventsProcessSchema.Parameters.SenderEmail.Caption" Value="SenderEmail" />
+			<Item Name="EventsProcessSchema.Parameters.SenderId.Caption" Value="SenderId" />
+		</Items>
+	</Group>
+</Resources>

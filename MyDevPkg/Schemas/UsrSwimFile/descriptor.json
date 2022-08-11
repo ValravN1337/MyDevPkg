@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "58713853-1300-473c-894a-288c5956f16a",
+    "Name": "UsrSwimFile",
+    "ModifiedOnUtc": "\/Date(1658832705000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Программы плавания",
+    "DependsOn": []
+  }
+}

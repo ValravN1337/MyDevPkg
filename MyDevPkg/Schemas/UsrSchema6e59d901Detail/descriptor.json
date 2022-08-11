@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "1944fbd9-8392-40fe-afb0-86e97373d0f7",
+    "Name": "UsrSchema6e59d901Detail",
+    "ModifiedOnUtc": "\/Date(1658835530000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Занятие в бассейне",
+    "DependsOn": []
+  }
+}

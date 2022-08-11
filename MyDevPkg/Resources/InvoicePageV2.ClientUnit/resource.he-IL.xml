@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CleanupSupplyPaymentElement.Value" Value="Are you sure you want to cancel the invoice and disconnect it from the installment plan?" />
+			<Item Name="LocalizableStrings.OrderTip.Value" Value="מספר הזמנה. שדה זה אינו ניתן לעריכה והוא יושלם באופן אוטומטי בעת הוספת חשבונית בהתאם להזמנה" />
+		</Items>
+	</Group>
+</Resources>

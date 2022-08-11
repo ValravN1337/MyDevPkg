@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CleanupSupplyPaymentElement.Value" Value="Are you sure you want to cancel the invoice and disconnect it from the installment plan?" />
+			<Item Name="LocalizableStrings.OrderTip.Caption" Value="Message to user 1" />
+			<Item Name="LocalizableStrings.OrderTip.Value" Value="Order number. This field is non-editable and is completed automatically when adding an invoice based on the order" />
+		</Items>
+	</Group>
+</Resources>
