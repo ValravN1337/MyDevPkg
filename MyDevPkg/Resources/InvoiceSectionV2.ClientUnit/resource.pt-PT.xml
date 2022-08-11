@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="pt-PT">
-	<Group Type="String">
-		<Items>
-			<Item Name="LocalizableStrings.GenerateReportWithoutFiltersConfirmationMessage.Value" Value="O relatório será gerado para todos os registos da secção, sem filtros. Quer prosseguir?" />
-		</Items>
-	</Group>
-</Resources>

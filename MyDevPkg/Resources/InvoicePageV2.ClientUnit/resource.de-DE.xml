@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="de-DE">
-	<Group Type="String">
-		<Items>
-			<Item Name="LocalizableStrings.CleanupSupplyPaymentElement.Value" Value="Wollen Sie die Rechnung wirklich stornieren und vom Zahlungsplan entfernen?" />
-			<Item Name="LocalizableStrings.OrderTip.Value" Value="Bestellnummer. Dieses Feld kann nicht geändert werden und wird automatisch gefüllt, wenn eine Rechnung für die Bestellung hinzugefügt wird" />
-		</Items>
-	</Group>
-</Resources>

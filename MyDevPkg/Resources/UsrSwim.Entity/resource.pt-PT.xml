@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="pt-PT">
-	<Group Type="String">
-		<Items>
-			<Item Name="Columns.UsrNotes.Caption" Value="Notas" />
-			<Item Name="Columns.UsrSwimName.Caption" Value="Nome" />
-		</Items>
-	</Group>
-</Resources>

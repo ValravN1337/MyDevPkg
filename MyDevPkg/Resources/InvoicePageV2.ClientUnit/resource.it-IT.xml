@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="it-IT">
-	<Group Type="String">
-		<Items>
-			<Item Name="LocalizableStrings.CleanupSupplyPaymentElement.Value" Value="Sei sicuro di voler annullare la fattura e scollegarla dal piano di fatturazione?" />
-			<Item Name="LocalizableStrings.OrderTip.Value" Value="Numero d'ordine. Questo campo non è editabile e viene completato automaticamente quando si aggiunge una fattura basata sull'ordine" />
-		</Items>
-	</Group>
-</Resources>

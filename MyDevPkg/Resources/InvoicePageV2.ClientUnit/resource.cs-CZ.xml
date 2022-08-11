@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="cs-CZ">
-	<Group Type="String">
-		<Items>
-			<Item Name="LocalizableStrings.CleanupSupplyPaymentElement.Value" Value="Opravdu chcete zrušit fakturu a odstranit ji z harmonogramu?" />
-			<Item Name="LocalizableStrings.OrderTip.Value" Value="Číslo objednávky. Toto pole je neupravitelné a je vyplněno automaticky při přidání faktury na základě objednávky" />
-		</Items>
-	</Group>
-</Resources>

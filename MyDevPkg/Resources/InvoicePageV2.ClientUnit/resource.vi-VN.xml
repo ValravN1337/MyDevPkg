@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="vi-VN">
-	<Group Type="String">
-		<Items>
-			<Item Name="LocalizableStrings.CleanupSupplyPaymentElement.Value" Value="Bạn có chắc muốn hủy hóa đơn và ngắt kết nối khỏi kế hoạch trả góp?" />
-			<Item Name="LocalizableStrings.OrderTip.Value" Value="Số đơn hàng. Trường này không thể bị chỉnh sửa và được hoàn thành tự động khi thêm một biên nhận dựa trên đơn hàng" />
-		</Items>
-	</Group>
-</Resources>

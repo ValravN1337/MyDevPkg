@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="nl-NL">
-	<Group Type="String">
-		<Items>
-			<Item Name="LocalizableStrings.CleanupSupplyPaymentElement.Value" Value="Weet u zeker dat u de de factuur wilt annuleren en verwijderen uit het afbetalingsplan?" />
-			<Item Name="LocalizableStrings.OrderTip.Value" Value="Ordernummer. Dit veld kan niet worden bewerkt en wordt automatisch aangemaakt bij het toevoegen van een factuur op basis van de bestelling" />
-		</Items>
-	</Group>
-</Resources>

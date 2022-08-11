@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Resources Culture="th-TH">
-	<Group Type="String">
-		<Items>
-			<Item Name="LocalizableStrings.CleanupSupplyPaymentElement.Value" Value="คุณแน่ใจหรือว่าต้องการยกเลิกใบแจ้งหนี้ และปลดการเชื่อมต่อมันจากแผนการผ่อนชำระ?" />
-			<Item Name="LocalizableStrings.OrderTip.Value" Value="เลขที่คำสั่งซื้อr. ฟิลด์นี้แก้ไขไม่ได้และจะถูกทำให้สมบูรณ์โดยอัตโนมัติเมื่อเพิ่มใบแจ้งหนี้ตามคำสั่งซื้อ" />
-		</Items>
-	</Group>
-</Resources>
