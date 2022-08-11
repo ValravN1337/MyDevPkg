@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "46b45fc2-3e51-4597-999e-943933c7722c",
+    "Name": "UsrSwim64b4a1e2Section",
+    "ModifiedOnUtc": "\/Date(1658832789000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Программы плавания\"",
+    "DependsOn": []
+  }
+}

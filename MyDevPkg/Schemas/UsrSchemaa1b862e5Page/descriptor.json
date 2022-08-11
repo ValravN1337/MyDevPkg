@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "c73fbd0b-a93c-49b6-9005-b91cfbf3eefd",
+    "Name": "UsrSchemaa1b862e5Page",
+    "ModifiedOnUtc": "\/Date(1659369886000)\/",
+    "Parent": {
+      "UId": "d3cc497c-f286-4f13-99c1-751c468733c0",
+      "Name": "BasePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Занятие в бассейне",
+    "DependsOn": []
+  }
+}

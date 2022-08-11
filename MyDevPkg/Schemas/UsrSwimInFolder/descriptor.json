@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "36322db2-6771-444a-85a0-fa7c150ab2cb",
+    "Name": "UsrSwimInFolder",
+    "ModifiedOnUtc": "\/Date(1658832714000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Программы плавания в группе",
+    "DependsOn": []
+  }
+}

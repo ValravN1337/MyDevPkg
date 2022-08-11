@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "87626809-561d-4a88-b22d-c33e4095f0f6",
+    "Name": "UsrGetTitleONI",
+    "ModifiedOnUtc": "\/Date(1660047311000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "GetTitleONI",
+    "DependsOn": []
+  }
+}

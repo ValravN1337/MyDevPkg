@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CleanupSupplyPaymentElement.Value" Value="هل أنت متأكد من أنك تريد إلغاء الفاتورة وفصلها عن خطة التقسيط؟?" />
+			<Item Name="LocalizableStrings.OrderTip.Value" Value="رقم الطلب. هذا الحقل هو غير قابل للتحرير ويكتمل تلقائيا عند إضافة فاتورة بناء على الطلب" />
+		</Items>
+	</Group>
+</Resources>

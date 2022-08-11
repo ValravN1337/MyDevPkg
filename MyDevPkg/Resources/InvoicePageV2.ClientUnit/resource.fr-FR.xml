@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CleanupSupplyPaymentElement.Value" Value="Êtes-vous sûr de vouloir annuler la facture et de la déconnecter de l'échéancier?" />
+			<Item Name="LocalizableStrings.OrderTip.Value" Value="Numéro de commande. Ce champ est non modifiable et est automatiquement complété lors de l'ajout d'une facture établie pour la commande" />
+		</Items>
+	</Group>
+</Resources>

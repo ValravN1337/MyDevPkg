@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "dcab016f-cd3f-4aae-8099-552fbcc17796",
+    "Name": "UsrGroupSectionService",
+    "ModifiedOnUtc": "\/Date(1659948757000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "Group section service",
+    "DependsOn": []
+  }
+}

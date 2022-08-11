@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="es-ES">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CleanupSupplyPaymentElement.Value" Value="¿Está seguro de que desea cancelar la factura y desconectarla del plan de pagos?" />
+			<Item Name="LocalizableStrings.OrderTip.Value" Value="Número de pedido. Este campo no se puede tratar y se completa automáticamente al añadir la factura a base del pedido" />
+		</Items>
+	</Group>
+</Resources>

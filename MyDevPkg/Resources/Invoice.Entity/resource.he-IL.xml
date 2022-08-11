@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectReminding.Parameters.Active.Caption" Value="פעולה אקטיבית" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectReminding.Parameters.Author.Caption" Value="נוצר על ידי" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectReminding.Parameters.Contact.Caption" Value="מקבל" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectReminding.Parameters.Description.Caption" Value="הערות התראה" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectReminding.Parameters.IsListSubjectReminds.Caption" Value="עבודה עם מספר התראות עבור האובייקט" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectReminding.Parameters.IsSingleReminder.Caption" Value="A single reminder" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectReminding.Parameters.IsSubjectDelete.Caption" Value="רשומת התראה נמחקה" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectReminding.Parameters.NotificationType.Caption" Value="סוג ההתראות" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectReminding.Parameters.PopupTitle.Caption" Value="PopupTitle" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectReminding.Parameters.RemindTime.Caption" Value="זמן ההתראה" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectReminding.Parameters.Source.Caption" Value="תפקיד נמען באובייקט" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectReminding.Parameters.SubjectPrimaryColumnValue.Caption" Value="אובייקט ההתראה" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectReminding.Parameters.SysEntitySchema.Caption" Value="אובייקט המכיל רשומה שההתראה לגביה" />
+		</Items>
+	</Group>
+</Resources>

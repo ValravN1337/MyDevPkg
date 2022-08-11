@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fa-IR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CleanupSupplyPaymentElement.Value" Value="آیا مطمئن هستید که می خواهید فاکتور را لغو کرده و آنرا از طرح پرداخت اقساطی جدا سازید؟?" />
+			<Item Name="LocalizableStrings.OrderTip.Value" Value="شماره سفارش. این فیلد غیر قابل ویرایش است و به صورت خودکار در هنگام اضافه کردن یک فاکتور بر اساس سفارش تکمیل می شود" />
+		</Items>
+	</Group>
+</Resources>

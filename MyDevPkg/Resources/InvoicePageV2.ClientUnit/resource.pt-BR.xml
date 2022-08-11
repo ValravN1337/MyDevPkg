@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-BR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.CleanupSupplyPaymentElement.Value" Value="Tem certeza que deseja cancelar a fatura e desconectá-la do parcelamento?" />
+			<Item Name="LocalizableStrings.OrderTip.Value" Value="Número do pedido. Este campo é não-editável e é preenchido automaticamente ao adicionar uma fatura com base no pedido" />
+		</Items>
+	</Group>
+</Resources>

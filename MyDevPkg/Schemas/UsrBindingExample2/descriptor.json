@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "65a7e737-1f36-4867-aaab-62d313592b36",
+    "Name": "UsrBindingExample2",
+    "ModifiedOnUtc": "\/Date(1658128276000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Usr1",
+    "DependsOn": []
+  }
+}

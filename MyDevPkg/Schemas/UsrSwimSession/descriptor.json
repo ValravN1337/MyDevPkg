@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "47a87976-d6ad-4c60-abae-eec31276528e",
+    "Name": "UsrSwimSession",
+    "ModifiedOnUtc": "\/Date(1659369892000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Занятие в бассейне",
+    "DependsOn": []
+  }
+}
